@@ -2,3 +2,7 @@ C:\Users\USER\Documents\GitHub\MzStudy\StudyConsoleProject\YounHomePageProject\b
 C:\Users\USER\Documents\GitHub\MzStudy\StudyConsoleProject\YounHomePageProject\bin\YounHomePageProject.pdb
 C:\Users\USER\Documents\GitHub\MzStudy\StudyConsoleProject\YounHomePageProject\obj\Debug\YounHomePageProject.dll
 C:\Users\USER\Documents\GitHub\MzStudy\StudyConsoleProject\YounHomePageProject\obj\Debug\YounHomePageProject.pdb
+C:\Users\USER\Documents\GitHub\asp.net_study\YounHomePageProject\bin\YounHomePageProject.dll
+C:\Users\USER\Documents\GitHub\asp.net_study\YounHomePageProject\bin\YounHomePageProject.pdb
+C:\Users\USER\Documents\GitHub\asp.net_study\YounHomePageProject\obj\Debug\YounHomePageProject.dll
+C:\Users\USER\Documents\GitHub\asp.net_study\YounHomePageProject\obj\Debug\YounHomePageProject.pdb
